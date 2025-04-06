@@ -22,7 +22,7 @@ function checkProgress() {
         0.1: { msg: "Počela si. Bravo! Ovo je početak još jednog moćnog puta za Emu. Da, neće biti lako, ali nalazili smo se u ovoj situaciji i ranije. Ema uvek prevagne!!! Tako će biti i sada, zato idemo jako!" },
         4: { msg: "Kako kida moja ljubav!" },
         9: { img: "assets/12.jpg", msg: "Znaš da si najbolja? Samo tako nastavi!" },
-        12: { msg: "Buduća ema te posmatra kroz sećanje! Bivša Ema se nada tvom uspehu!" },
+        12: { msg: "Buduća Ema te posmatra kroz sećanje! Bivša Ema se nada tvom uspehu!" },
         25: { msg: "Ovo je već ozbiljno! Tiiiii si nešto ozbiljno!" },
         30: { img: "assets/30.jpg", msg: "E baš kidaš. Da li si znala da imaš divno cveće koje si kupila u subotu kada si sa Milošem išla na pijacu? Izdvoji 5 minuta, napravi kafu i idi da uživaš u tom cveću." },
         45: { img: "assets/45.png", msg: "Kidalice, kidalice, kidalice!" },
