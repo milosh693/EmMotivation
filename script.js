@@ -28,7 +28,7 @@ function checkProgress() {
         45: { img: "assets/45.png", msg: "Kidalice, kidalice, kidalice!" },
         51: { img: "assets/51.jpg", msg: "Sabila si pola, EEEEEEEJ!!! Idi kod Miloša i reci mu da mora da te poljubi u čelo! Pa šta ako spava, to nije izgovor!" },
         58: { msg: "Zvonko bi se plašio kada bi znao šta ti radiš!" },
-        63: { img: "assets/63.jpg", msg: " " },
+        63: { img: "assets/63.png", msg: " " },
         70: { msg: "Legendice BREEEEEEEEEEE!" },
         85: { msg: "90%? You’re a rockstar!" },
         100: { msg: "Rešiiiiiiiiii. Zaslužila si maz. Idi kod Miloša!" }
