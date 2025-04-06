@@ -19,7 +19,7 @@ function checkProgress() {
 
     // Define benchmarks and their content
     const benchmarks = {
-        0.1: { msg: "Počela si. Bravo! Ovo je početak još jednog moćnog puta za Emu. Da, neće biti lako, ali nalazili smo se u ovoj situaciji i ranije. Ema uvek prevagne!!! Tako će biti i sada, zato idemo jako!" },
+        0.1: { msg: "Počela si. Bravo! Ovo je početak još jednog moćnog puta za Emu. Da, neće biti lako, ali nalazili smo sei u gorim situacijama. Ema uvek prevagne!!! Tako će biti i sada, zato idemo jako!" },
         4: { msg: "Kako kida moja ljubav!" },
         9: { img: "assets/12.jpg", msg: "Znaš da si najbolja? Samo tako nastavi!" },
         12: { msg: "Buduća Ema te posmatra kroz sećanje! Bivša Ema se nada tvom uspehu!" },
