@@ -32,7 +32,7 @@ function checkProgress() {
         70: { msg: "Legendice BREEEEEEEEEEE!" },
         75: { img: "assets/75.jpg", msg: "Ovo je već neštoozbiljno! TIIII si nešto ozbiljno!" },
         85: { img: "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWd1NHNtdWI1b3JrNWc0N3M5emRzd3JwbGd2bnNtcmZrdms1MWpxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7aBE32jCr6lOhtuE9v/giphy.gif",msg: "90%? You’re a rockstar!" },
-        100: { msg: "Rešiiiiiiiiii. Zaslužila si maz. Idi kod Miloša!" }
+        100: { img: "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3lwMmRrMzk0MmRjZnk4d293NWZ2aGx5a243cDFhNmNodDlvMWJqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GuTd5EmBELE9vy4oBo/giphy.gif", msg: "Rešiiiiiiiiii. Zaslužila si maz. Idi kod Miloša!" }
     };
 
     // Get all milestone percentages and sort them
