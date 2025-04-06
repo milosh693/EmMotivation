@@ -19,13 +19,13 @@ function checkProgress() {
 
     // Define benchmarks and their content
     const benchmarks = {
-        0.1: { msg: "Počela si. Bravo! Ovo je početak još jednog moćnog puta za Emu. Da, neće biti lako, ali nalazili smo se u ovoj situaciji i ranije. Ema uvek prevagne!!! Tako će biti i sada, zato idemo jako!" },
+        0.1: { img: "assets/63.png", msg: "Počela si. Bravo! Ovo je početak još jednog moćnog puta za Emu. Da, neće biti lako, ali nalazili smo se u ovoj situaciji i ranije. Ema uvek prevagne!!! Tako će biti i sada, zato idemo jako!" },
         4: { msg: "Kako kida moja ljubav!" },
         9: { img: "assets/12.jpg", msg: "Znaš da si najbolja? Samo tako nastavi!" },
         12: { msg: "Buduća Ema te posmatra kroz sećanje! Bivša Ema se nada tvom uspehu!" },
         25: { msg: "Ovo je već ozbiljno! Tiiiii si nešto ozbiljno!" },
         30: { img: "assets/30.jpg", msg: "E baš kidaš. Da li si znala da imaš divno cveće koje si kupila u subotu kada si sa Milošem išla na pijacu? Izdvoji 5 minuta, napravi kafu i idi da uživaš u tom cveću." },
-        45: { img: "assets/45.png", msg: "Kidalice, kidalice, kidalice!" },
+        45: { msg: "Kidalice, kidalice, kidalice!" },
         51: { img: "assets/51.jpg", msg: "Sabila si pola, EEEEEEEJ!!! Idi kod Miloša i reci mu da mora da te poljubi u čelo! Pa šta ako spava, to nije izgovor!" },
         58: { msg: "Zvonko bi se plašio kada bi znao šta ti radiš!" },
         63: { img: "assets/63.png", msg: " " },
