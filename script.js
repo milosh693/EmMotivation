@@ -23,7 +23,6 @@ function checkProgress() {
         4: { msg: "Kako kida moja ljubav!" },
         9: { img: "assets/12.jpg", msg: "Znaš da si najbolja? Samo tako nastavi!" },
         12: { msg: "Buduća Ema te posmatra kroz sećanje! Bivša Ema se nada tvom uspehu!" },
-        17: { msg: "Ovo je već ozbiljno! Tiiiii si nešto ozbiljno!" },
         25: { msg: "Četvrtinaaaa! Idemo Srećić!" },
         30: { img: "assets/30.jpg", msg: "E baš kidaš. Da li si znala da imaš divno cveće koje si kupila u subotu kada si sa Milošem išla na pijacu? Izdvoji 5 minuta, napravi kafu i idi da uživaš u tom cveću." },
         42: { msg: "Kidalice, kidalice, kidalice!" },
@@ -31,7 +30,8 @@ function checkProgress() {
         58: { msg: "Zvonko bi se plašio kada bi znao šta ti radiš!" },
         63: { img: "assets/63.png", msg: " " },
         70: { msg: "Legendice BREEEEEEEEEEE!" },
-        85: { msg: "90%? You’re a rockstar!" },
+        75: { msg: "Ovo je već neštoozbiljno! TIIII si nešto ozbiljno!" },
+        85: { img: "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWd1NHNtdWI1b3JrNWc0N3M5emRzd3JwbGd2bnNtcmZrdms1MWpxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7aBE32jCr6lOhtuE9v/giphy.gif",msg: "90%? You’re a rockstar!" },
         100: { msg: "Rešiiiiiiiiii. Zaslužila si maz. Idi kod Miloša!" }
     };
 
